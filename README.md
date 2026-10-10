@@ -15,13 +15,13 @@
 
 <!-- ─────────────  BANNER  ───────────── -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1F6FEB,100:3B82F6&height=190&section=header&text=Guilherme%20Nascimento&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=17&descColor=BFDBFE&animation=fadeIn" width="100%" alt="Guilherme Nascimento"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:B33A12,100:FF4D1A&height=190&section=header&text=Guilherme%20Nascimento&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=17&descColor=BFDBFE&animation=fadeIn" width="100%" alt="Guilherme Nascimento"/>
 </div>
 
 <!-- ─────────────  TYPING ANIMATION  ───────────── -->
 <div align="center">
   <a href="https://github.com/GuiNascimento77">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=3B82F6&center=true&vCenter=true&width=780&height=48&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Java+em+forma%C3%A7%C3%A3o+%E2%98%95;Construindo+projetos+que+resolvem+problemas+reais;Praia+Grande%2C+SP+%E2%80%94+Brasil+%F0%9F%8C%8A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=FF4D1A&center=true&vCenter=true&width=780&height=48&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Java+em+forma%C3%A7%C3%A3o+%E2%98%95;Construindo+projetos+que+resolvem+problemas+reais;Praia+Grande%2C+SP+%E2%80%94+Brasil+%F0%9F%8C%8A" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,13 +30,13 @@
 <!-- ─────────────  SOBRE MIM  ───────────── -->
 ## 🧭 Sobre mim
 
-Estou cursando **Análise e Desenvolvimento de Sistemas** e montando meu portfólio do zero — na prática, testando, errando e documentando cada passo.
+Estou cursando **Análise e Desenvolvimento de Sistemas** e quero migrar de vez para a área de tecnologia. Este perfil é o registro dessa travessia — na prática, testando, errando e documentando cada passo.
 
-Hoje meu foco é **Java**: orientação a objetos, camadas, JDBC, testes com JUnit e integração com API externa. Escolhi começar por ela justamente por não ter framework escondendo o que acontece por baixo.
+Sou de **Praia Grande, no litoral de São Paulo**: caiçara, cristão, casado e corinthiano. Alguém tentando viver a vida debaixo do sol, entre a areia e o teclado.
 
-No caminho também coloquei a mão em **Python**, **SQL** e automação para tirar projetos do papel — sempre com README explicando o *porquê* das decisões, não só o *como*.
+Hoje meu foco é **Java** — orientação a objetos, camadas, JDBC, testes com JUnit e integração com API externa. Escolhi começar por ela justamente por não ter framework escondendo o que acontece por baixo.
 
-Sou de **Praia Grande, no litoral de São Paulo**. Gosto de código que dá para ler, de documentação honesta e de projeto que resolve algo concreto, mesmo que pequeno.
+O que me puxa além disso é **Inteligência Artificial** e uma coisa ou outra de **Redes**. Gosto de código que dá para ler, de documentação honesta e de projeto que resolve algo concreto — mesmo que pequeno.
 
 <br/>
 
@@ -68,7 +68,7 @@ Sou de **Praia Grande, no litoral de São Paulo**. Gosto de código que dá para
 
 <!-- Projeto 1 -->
 <a href="https://github.com/GuiNascimento77/radar-da-cota">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiNascimento77&repo=radar-da-cota&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="radar-da-cota"/>
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiNascimento77&repo=radar-da-cota&hide_border=true&bg_color=0D1117&title_color=FF4D1A&icon_color=FF4D1A&text_color=FFFFFF" alt="radar-da-cota"/>
 </a>
 
 **🗂️ Radar da Cota** · `Java 21` · [**ver o site →**](https://guinascimento77.github.io/radar-da-cota/)
@@ -81,7 +81,7 @@ Lê o arquivo público da Cota Parlamentar (CEAP) — 114 mil notas fiscais por 
 
 <!-- Projeto 2 -->
 <a href="https://github.com/GuiNascimento77/discord-ticket-shop-bot">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiNascimento77&repo=discord-ticket-shop-bot&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="discord-ticket-shop-bot"/>
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiNascimento77&repo=discord-ticket-shop-bot&hide_border=true&bg_color=0D1117&title_color=FF4D1A&icon_color=FF4D1A&text_color=FFFFFF" alt="discord-ticket-shop-bot"/>
 </a>
 
 **🎫 Bot de Vendas e Tickets para Discord** · `Java 21` · `JDA 6` · `SQLite`
@@ -94,7 +94,7 @@ Bot completo de atendimento e vendas para servidores Discord. Cada conversa vira
 
 <!-- Projeto 3 -->
 <a href="https://github.com/GuiNascimento77/agent-crew">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiNascimento77&repo=agent-crew&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="agent-crew"/>
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiNascimento77&repo=agent-crew&hide_border=true&bg_color=0D1117&title_color=FF4D1A&icon_color=FF4D1A&text_color=FFFFFF" alt="agent-crew"/>
 </a>
 
 **🤖 agent-crew** · `Python` · `LangGraph` · `FastAPI`
@@ -109,12 +109,12 @@ Um time de agentes de IA que pesquisa, analisa, escreve e revisa — com um cicl
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiNascimento77&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&hide=issues,prs,contribs&rank_icon=github" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiNascimento77&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiNascimento77&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4D1A&icon_color=FF4D1A&text_color=FFFFFF&hide=issues,prs,contribs&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiNascimento77&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4D1A&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=GuiNascimento77&hide_border=true&background=0D1117&stroke=1F6FEB&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=9ECBFF&dates=8B949E&locale=pt_BR" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=GuiNascimento77&hide_border=true&background=0D1117&stroke=B33A12&ring=FF4D1A&fire=FF4D1A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF4D1A&sideLabels=FFA07A&dates=8B949E&locale=pt_BR" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -123,12 +123,12 @@ Um time de agentes de IA que pesquisa, analisa, escreve e revisa — com um cicl
 ## 📈 Atividade
 
 <div align="center">
-  <img width="100%" src="https://activity-graph.vercel.app/graph?username=GuiNascimento77&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20no%20%C3%BAltimo%20ano" alt="Activity Graph"/>
+  <img width="100%" src="https://activity-graph.vercel.app/graph?username=GuiNascimento77&bg_color=0D1117&color=FF4D1A&line=FF4D1A&point=FFFFFF&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20no%20%C3%BAltimo%20ano" alt="Activity Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuiNascimento77&theme=github_dark" alt="Linguagens por repositório"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuiNascimento77&theme=github_dark" alt="Linguagens por commit"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuiNascimento77&theme=github_dark&bg_color=0D1117&title_color=FF4D1A" alt="Linguagens por repositório"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuiNascimento77&theme=github_dark&bg_color=0D1117&title_color=FF4D1A" alt="Linguagens por commit"/>
 </div>
 
 <br/>
@@ -137,7 +137,7 @@ Um time de agentes de IA que pesquisa, analisa, escreve e revisa — com um cicl
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=GuiNascimento77&theme=algolia&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="Troféus do GitHub"/>
+  <img src="https://github-trophies.vercel.app/?username=GuiNascimento77&theme=radical&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="Troféus do GitHub"/>
 </div>
 
 <br/>
@@ -172,7 +172,7 @@ Um time de agentes de IA que pesquisa, analisa, escreve e revisa — com um cicl
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=GuiNascimento77&label=Visitas%20no%20perfil&color=3B82F6&style=for-the-badge" alt="Visitas no perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=GuiNascimento77&label=Visitas%20no%20perfil&color=FF4D1A&style=for-the-badge" alt="Visitas no perfil"/>
 
 </div>
 
@@ -185,6 +185,6 @@ Um time de agentes de IA que pesquisa, analisa, escreve e revisa — com um cicl
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=footer" width="100%" alt="Rodapé"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:B33A12&height=120&section=footer" width="100%" alt="Rodapé"/>
 
 </div>
