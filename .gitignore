@@ -1,0 +1,9 @@
+# Segredos — nunca versionar
+.env
+.env.*
+!.env.example
+*.token
+
+# Sistema
+.DS_Store
+Thumbs.db

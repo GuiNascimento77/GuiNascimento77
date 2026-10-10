@@ -1,0 +1,58 @@
+# ─────────────────────────────────────────────────────────────────────
+#  Cobrinha de contribuições (Snake Contribution)
+#
+#  ONDE COLOCAR ESTE ARQUIVO
+#    No repositório de perfil (o que tem o MESMO nome do seu usuário:
+#    GuiNascimento77), crie a pasta .github/workflows/ e salve este
+#    arquivo lá dentro como snake.yml
+#
+#  COMO ATIVAR
+#    1. Faça o commit deste arquivo
+#    2. Aba "Actions" → escolha "Generate Snake" → "Run workflow"
+#    3. Espere ~1 minuto. Ele cria um branch chamado "output"
+#    4. Pronto: a imagem do README passa a carregar
+#
+#  Ele roda sozinho todo dia às 03:00 (UTC) e também a cada push na main.
+# ─────────────────────────────────────────────────────────────────────
+
+name: Generate Snake
+
+on:
+  # Roda sozinho todo dia às 03:00 UTC (00:00 em Brasília)
+  schedule:
+    - cron: "0 3 * * *"
+
+  # Permite disparar na mão pela aba Actions
+  workflow_dispatch:
+
+  # Roda também a cada push na branch principal
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 10
+
+    steps:
+      # Gera os dois arquivos: um para tema claro e um para tema escuro
+      - name: Gerar a cobrinha
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: GuiNascimento77
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Publica o resultado num branch chamado "output"
+      - name: Publicar no branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
