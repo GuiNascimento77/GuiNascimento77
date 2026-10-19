@@ -105,6 +105,19 @@ Um time de agentes de IA que pesquisa, analisa, escreve e revisa — com um cicl
 
 <br/>
 
+<!-- Projeto 4 -->
+<a href="https://github.com/GuiNascimento77/traffic-inspector">
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiNascimento77&repo=traffic-inspector&hide_border=true&bg_color=0D1117&title_color=FF4D1A&icon_color=FF4D1A&text_color=FFFFFF" alt="traffic-inspector"/>
+</a>
+
+**🔎 [Traffic Inspector](https://github.com/GuiNascimento77/traffic-inspector)** · `TypeScript` · `React` · `Bun` · `IndexedDB`
+
+Aplicação web em português para auditar campanhas pagas a partir de CSVs. Calcula indicadores como CPA e ROAS e aplica cinco regras com evidências e sugestões — sem alterar orçamentos automaticamente. Mantém histórico e notas no navegador, sem login, com exportação e backup. Testes unitários e de ponta a ponta no GitHub Actions.
+
+<br clear="left"/>
+
+<br/>
+
 <!-- ─────────────  ESTATÍSTICAS  ───────────── -->
 ## 📊 Estatísticas
 
