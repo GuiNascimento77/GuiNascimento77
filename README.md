@@ -59,6 +59,15 @@ Audita campanhas pagas a partir de CSVs: calcula CPA, ROAS e outros indicadores 
 
 [Como rodar e usar o exemplo](https://github.com/GuiNascimento77/traffic-inspector#readme) · [Regras da auditoria](https://github.com/GuiNascimento77/traffic-inspector/blob/main/docs/audit-rules.md) · [Código](https://github.com/GuiNascimento77/traffic-inspector)
 
+### [Calculadora do Entregador](https://github.com/GuiNascimento77/calculadora-entregador)
+`Java 21` · `Maven` · `SQLite` · `JUnit` · `GitHub Actions`
+
+CLI para motoboys, entregadores de bike e motoristas de app: registra jornadas, corridas e despesas e calcula lucro estimado, custo por km e ganho por hora, considerando também deslocamentos sem pedido e espera. Inclui metas, relatórios, comparativo de plataformas e alertas de manutenção.
+
+**Diferencial:** separa saldo de caixa de lucro estimado e provisiona manutenção por km, sem descontar o mesmo custo duas vezes.
+
+[Como testar o exemplo](https://github.com/GuiNascimento77/calculadora-entregador/blob/main/docs/EXEMPLO.md) · [Baixar o JAR](https://github.com/GuiNascimento77/calculadora-entregador/releases/tag/v1.0.0) · [Código](https://github.com/GuiNascimento77/calculadora-entregador)
+
 ## 🛠️ Tecnologias
 
 **Estudando agora**
