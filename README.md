@@ -1,102 +1,91 @@
 <!-- README de perfil — Guilherme Nascimento (@GuiNascimento77) -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:B33A12,100:FF4D1A&height=190&section=header&text=Guilherme%20Nascimento&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=17&descColor=BFDBFE&animation=fadeIn" width="100%" alt="Guilherme Nascimento — estudante de Análise e Desenvolvimento de Sistemas"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:B33A12,100:FF4D1A&height=190&section=header&text=Guilherme%20Nascimento&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Desenvolvedor%20J%C3%BAnior%20(Backend%20e%20IA)&descAlignY=58&descSize=17&descColor=BFDBFE&animation=fadeIn" width="100%" alt="Guilherme Nascimento — Desenvolvedor Júnior (Backend e IA)"/>
 </div>
 
 <div align="center">
-  <strong>Java em formação · Projetos práticos · Interesse em IA</strong><br/><br/>
-  <a href="mailto:gui33vicente@gmail.com">Contato: gui33vicente@gmail.com</a> · <a href="#-projetos">Conheça meus projetos</a>
+  <strong>Java · Python · FastAPI · Testes automatizados · CI com GitHub Actions</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Aberto%20a%20oportunidades-est%C3%A1gio%20%2F%20j%C3%BAnior-FF4D1A?style=for-the-badge" alt="Aberto a oportunidades"/><br/><br/>
+  <a href="mailto:gui33vicente@gmail.com">gui33vicente@gmail.com</a> · <a href="#-projetos">Projetos</a> · <a href="https://storage.googleapis.com/runable-templates/cli-uploads%2Fb0ciDDGtZPvDP4n0ZiM6X8S388SgA1F8%2FxJtxE1jkLBxxMNNXehicj%2Fcurriculo.pdf">Currículo (PDF)</a>
 </div>
 
 ## 🧭 Sobre mim
 
-Estou cursando **Análise e Desenvolvimento de Sistemas** e quero migrar de vez para a área de tecnologia. Este perfil é o registro dessa travessia — na prática, testando, errando e documentando cada passo.
+Estou cursando **Análise e Desenvolvimento de Sistemas** (UniCesumar, previsão 08/2028) e busco meu primeiro estágio ou posição júnior em desenvolvimento backend e IA.
 
-Sou de **Praia Grande, no litoral de São Paulo**: caiçara, cristão, casado e corinthiano. Alguém tentando viver a vida debaixo do sol, entre a areia e o teclado.
+Antes da programação, trabalhei com **tráfego pago** (Meta Ads e Google Ads), o que me deu o hábito de olhar para métricas e resultados. Hoje levo isso para o código: sistemas que medem, testam e explicam o que fazem.
 
-Hoje meu foco é **Java** — orientação a objetos, camadas, JDBC, testes com JUnit e integração com API externa. Escolhi começar por ela justamente por não ter framework escondendo o que acontece por baixo.
-
-O que me puxa além disso é **Inteligência Artificial** e uma coisa ou outra de **Redes**. Gosto de código que dá para ler, de documentação honesta e de projeto que resolve algo concreto — mesmo que pequeno.
+Estou aprendendo **Java** pelos fundamentos, sem framework escondendo o que acontece por baixo, e tenho interesse em **IA** aplicada a fluxos de agentes.
 
 ## 🚀 Projetos
 
-Projetos de estudo com código aberto, documentação e testes automatizados. Os links abaixo funcionam sem depender dos cards de estatísticas.
+Projetos de estudo com código aberto, documentação e testes automatizados.
 
 ### 🗂️ [Radar da Cota](https://github.com/GuiNascimento77/radar-da-cota)
-`Java 21` · `Maven` · `JUnit`
+`Java 21` · `Maven` · `GitHub Actions`
 
-Analisa despesas da Cota Parlamentar e aponta valores fora do padrão, com quatro regras auditáveis. Publica os alertas em uma página e oferece uma demonstração com dados sintéticos, sem acesso à internet.
+Analisa 114 mil notas fiscais públicas da Câmara dos Deputados com quatro regras estatísticas e publica um site que se atualiza sozinho.
 
-**Diferencial:** análise explicável de dados públicos, sem dependências de execução.
+**Destaque:** 106 testes automatizados e análise explicável de dados públicos.
 
-[Ver o site](https://guinascimento77.github.io/radar-da-cota/) · [Como rodar](https://github.com/GuiNascimento77/radar-da-cota#como-rodar) · [Código](https://github.com/GuiNascimento77/radar-da-cota)
+[Ver o site](https://guinascimento77.github.io/radar-da-cota/) · [Código](https://github.com/GuiNascimento77/radar-da-cota)
 
 ### 🎫 [Bot de Vendas e Tickets para Discord](https://github.com/GuiNascimento77/discord-ticket-shop-bot)
-`Java 21` · `JDA 6` · `SQLite` · `JUnit`
+`Java 21` · `JDA` · `SQLite`
 
-Organiza atendimento e vendas em servidores Discord: canais privados para tickets, histórico de conversas, pedidos no banco e painel para a equipe.
+Catálogo, carrinho, canal privado de atendimento e relatório de vendas para servidores Discord.
 
-**Diferencial:** arquitetura em camadas, persistência com JDBC e demonstração sem token ou Discord.
+**Destaque:** 39 testes automatizados, arquitetura em camadas e persistência com JDBC.
 
 [Como testar a demonstração](https://github.com/GuiNascimento77/discord-ticket-shop-bot#-demonstração-sem-discord) · [Código](https://github.com/GuiNascimento77/discord-ticket-shop-bot)
 
 ### 🤖 [agent-crew](https://github.com/GuiNascimento77/agent-crew)
 `Python` · `LangGraph` · `FastAPI`
 
-Coordena agentes que pesquisam, analisam, escrevem e revisam, com um ciclo que devolve textos para reescrita quando a avaliação é baixa.
+Time de quatro agentes de IA (pesquisa, análise, escrita e revisão) com ciclo de reescrita e trava contra loop infinito.
 
-**Diferencial:** modo de demonstração determinístico com provedor mock, offline e sem chave de API — não exige um modelo real para testar o fluxo.
+**Destaque:** modo de demonstração offline, sem chave de API.
 
 [Como rodar a demonstração](https://github.com/GuiNascimento77/agent-crew#rode-agora-sem-chave-de-api) · [Código](https://github.com/GuiNascimento77/agent-crew)
 
 ### 🔎 [Traffic Inspector](https://github.com/GuiNascimento77/traffic-inspector)
-`TypeScript` · `React` · `Bun` · `IndexedDB`
+`TypeScript` · `React` · `Bun`
 
-Audita campanhas pagas a partir de CSVs: calcula CPA, ROAS e outros indicadores e aplica cinco regras com evidências e sugestões, sem alterar orçamentos automaticamente.
+Auditor local de campanhas pagas: valida CSV, calcula CTR, CPC, CPA e ROAS e aplica regras explicáveis de auditoria.
 
-**Diferencial:** histórico e notas locais, sem login, com exportação, backup e testes unitários e de ponta a ponta.
+**Destaque:** cálculos de métricas de tráfego pago com testes unitários e de ponta a ponta.
 
-[Como rodar e usar o exemplo](https://github.com/GuiNascimento77/traffic-inspector#readme) · [Regras da auditoria](https://github.com/GuiNascimento77/traffic-inspector/blob/main/docs/audit-rules.md) · [Código](https://github.com/GuiNascimento77/traffic-inspector)
+[Como rodar e usar o exemplo](https://github.com/GuiNascimento77/traffic-inspector#readme) · [Código](https://github.com/GuiNascimento77/traffic-inspector)
 
-### [Calculadora do Entregador](https://github.com/GuiNascimento77/calculadora-entregador)
-`Java 21` · `Maven` · `SQLite` · `JUnit` · `GitHub Actions`
+### 🛵 [Calculadora do Entregador](https://github.com/GuiNascimento77/calculadora-entregador)
+`Java 21` · `Maven` · `SQLite` · `GitHub Actions`
 
-CLI para motoboys, entregadores de bike e motoristas de app: registra jornadas, corridas e despesas e calcula lucro estimado, custo por km e ganho por hora, considerando também deslocamentos sem pedido e espera. Inclui metas, relatórios, comparativo de plataformas e alertas de manutenção.
+CLI que calcula o lucro líquido estimado de entregadores, com custo por km, metas, relatórios e alertas de manutenção.
 
-**Diferencial:** separa saldo de caixa de lucro estimado e provisiona manutenção por km, sem descontar o mesmo custo duas vezes.
+**Destaque:** testes automatizados e CI a cada push.
 
-[Como testar o exemplo](https://github.com/GuiNascimento77/calculadora-entregador/blob/main/docs/EXEMPLO.md) · [Baixar o JAR](https://github.com/GuiNascimento77/calculadora-entregador/releases/tag/v1.0.0) · [Código](https://github.com/GuiNascimento77/calculadora-entregador)
+[Como testar o exemplo](https://github.com/GuiNascimento77/calculadora-entregador/blob/main/docs/EXEMPLO.md) · [Código](https://github.com/GuiNascimento77/calculadora-entregador)
 
 ## 🛠️ Tecnologias
 
-**Estudando agora**
+**Principais**
 
-![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-**Já usei em projetos — em aprendizado, não uma lista de domínio avançado**
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bun](https://img.shields.io/badge/Bun-14151A?style=for-the-badge&logo=bun&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 📊 GitHub em números
+**Também uso**
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GuiNascimento77&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4D1A&icon_color=FF4D1A&text_color=FFFFFF&hide=issues,prs,contribs&rank_icon=github" alt="Estatísticas do GitHub"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiNascimento77&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4D1A&text_color=FFFFFF&langs_count=8" alt="Linguagens presentes nos repositórios"/>
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bun](https://img.shields.io/badge/Bun-14151A?style=for-the-badge&logo=bun&logoColor=white)
 
-<sub>Os cards dependem de um serviço externo. A distribuição de linguagens reflete os arquivos dos repositórios, não o nível de conhecimento.</sub>
+**Testes e práticas:** testes automatizados, programação orientada a objetos, lógica de programação.
 
 ## 🐍 Contribuições em cobrinha
 
@@ -108,11 +97,16 @@ CLI para motoboys, entregadores de bike e motoristas de app: registra jornadas, 
   </picture>
 </div>
 
-## 📬 Onde me encontrar
+## 🎓 Formação e idiomas
 
-[E-mail: gui33vicente@gmail.com](mailto:gui33vicente@gmail.com) · [Instagram](https://instagram.com/guivis.nascimento_) · [GitHub](https://github.com/GuiNascimento77)
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas**, UniCesumar (em andamento, previsão 08/2028)
+- **Curso Java Fundamentos**, FIAP (em andamento)
+- **Idiomas:** português (nativo), inglês (básico)
+
+## 📬 Contato
+
+[gui33vicente@gmail.com](mailto:gui33vicente@gmail.com) · [Instagram](https://instagram.com/guivis.nascimento_) · [GitHub](https://github.com/GuiNascimento77)
 
 <div align="center">
-  <em>Ainda estou no começo — e é exatamente isso que este perfil mostra.</em><br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:B33A12&height=120&section=footer" width="100%" alt="Rodapé"/>
 </div>
