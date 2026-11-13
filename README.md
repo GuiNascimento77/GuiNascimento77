@@ -58,6 +58,15 @@ Auditor local de campanhas pagas: valida CSV, calcula CTR, CPC, CPA e ROAS e apl
 
 [Como rodar e usar o exemplo](https://github.com/GuiNascimento77/traffic-inspector#readme) · [Código](https://github.com/GuiNascimento77/traffic-inspector)
 
+### ✂️ [Hora Marcada](https://github.com/GuiNascimento77/hora-marcada)
+`TypeScript` · `React` · `Bun` · `Hono/oRPC` · `Drizzle` · `SQLite`
+
+Agenda de barbearia com horários sem sobreposição, autenticação por e-mail e senha, permissões de cliente e administrador e demonstração pública isolada das reservas privadas.
+
+**Destaque:** 60 testes automatizados, autorização na API e CI com testes, build e lint aprovados no GitHub Actions.
+
+[Como rodar e testar](https://github.com/GuiNascimento77/hora-marcada#readme) · [Código](https://github.com/GuiNascimento77/hora-marcada)
+
 ### 🛵 [Calculadora do Entregador](https://github.com/GuiNascimento77/calculadora-entregador)
 `Java 21` · `Maven` · `SQLite` · `GitHub Actions`
 
