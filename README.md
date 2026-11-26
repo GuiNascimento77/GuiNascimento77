@@ -67,6 +67,15 @@ Agenda de barbearia com horários sem sobreposição, autenticação por e-mail 
 
 [Como rodar e testar](https://github.com/GuiNascimento77/hora-marcada#readme) · [Código](https://github.com/GuiNascimento77/hora-marcada)
 
+### 📅 [Reservas API](https://github.com/GuiNascimento77/reservas-api)
+`TypeScript` · `Bun` · `Hono` · `Drizzle` · `PostgreSQL`
+
+API REST para consultar horários disponíveis, reservar e cancelar salas, com documentação OpenAPI.
+
+**Destaque:** um índice único parcial no PostgreSQL impede a dupla reserva mesmo com requisições simultâneas. Cinco testes de integração aprovados no GitHub Actions.
+
+[Como rodar a demonstração](https://github.com/GuiNascimento77/reservas-api#demo-duas-pessoas-uma-vaga) · [Código](https://github.com/GuiNascimento77/reservas-api) · [CI](https://github.com/GuiNascimento77/reservas-api/actions/runs/45897856433)
+
 ### 🛵 [Calculadora do Entregador](https://github.com/GuiNascimento77/calculadora-entregador)
 `Java 21` · `Maven` · `SQLite` · `GitHub Actions`
 
